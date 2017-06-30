@@ -1,4 +1,4 @@
-# Pump-PID-Controller-Pulsatile-flow
+# Pump Controller (PID) to produce Pulsatile flow
 Arduino program for pump controller to produce pulsatile flow rate using PID controller. In vitro fluid mechanical experimental studies.
 For referencing these program please use the github URL and following paper:
 
