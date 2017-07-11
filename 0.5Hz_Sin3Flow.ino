@@ -24,7 +24,7 @@ float kp = 5.0 / 10000.;
 float ki = 0.0 / 1000000.;
 float kd = 00.0 / 1000.;
 
-int J = 0, C1 = 0;	\\ Integers to control the loop
+int J = 0, C1 = 0;	// Integers to control the loop
 
 const int Is_Gain_Schedule = 1;     // if ==0 then NO gain scheduling, if ==1 then gain scheduling is activeated.
 
