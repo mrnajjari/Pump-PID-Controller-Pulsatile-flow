@@ -25,7 +25,7 @@ float kp = 10.0 / 10000.;
 float ki = 2.0 / 1000000.;
 float kd = 00.0 / 1000.;
 
-int J = 0, C1 = 1;	\\ Integers to control the loop
+int J = 0, C1 = 1;	// Integers to control the loop
 
 // ----- Reference signal (Desired signal) parameters: -------------------------------------------------------
 const int Ref_Sig_T = 4000; 											// This is the period of the Reference signal in mili s
