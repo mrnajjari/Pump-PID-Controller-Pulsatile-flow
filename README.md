@@ -2,7 +2,7 @@
 Arduino program for pump controller to produce pulsatile flow rate using PID controller. In vitro fluid mechanical experimental studies.
 For referencing these program please use the github URL and following paper:
 
-Najjari MR, Plesniak MW (2017) PID controller design to generate pulsatile flow rate for in vitro experimental studies of physiological flows, Biomedical Engineering Letters (submitted)
+Najjari MR, Plesniak MW (2017) PID controller design to generate pulsatile flow rate for in vitro experimental studies of physiological flows, Biomedical Engineering Letters (http://dx.doi.org/10.1007/s13534-017-0049-9)
 
 
 An Arduino board was used to control a pump to produce variable flow rates.
